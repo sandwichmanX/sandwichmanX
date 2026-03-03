@@ -49,8 +49,8 @@ Best Projects:
   Extracts text from PDF, 
   Outputs structured markdown summaries, 
 
-Goals
--Study BSc Computer Science in Germany
--Specialize in Artificial Intelligence and Machine Learning
--Contribute to open source AI tools
--Build systems that improve learning and access to knowledge
+>Goals
+1. Study BSc Computer Science in Germany, 
+2. Specialize in Artificial Intelligence and Machine Learning, 
+3. Contribute to open source AI tools, 
+4. Build systems that improve learning and access to knowledge
