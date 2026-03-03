@@ -28,26 +28,26 @@ Mathematics for AI:
 
 Best Projects:
 >Learning Assistant System
-  -Reads PDF and text files
-  -Generates structured summaries
-  -Supports quiz generation
-  -Implements text chunking and retrieval
+  Reads PDF and text files, 
+  Generates structured summaries, 
+  Supports quiz generation, 
+  Implements text chunking and retrieval
 
 >ML From Scratch
-  -Implemented regression and classification models using only NumPy
-  -Derived gradients manually
-  -Compared results with scikit-learn
+  Implemented regression and classification models using only NumPy, 
+  Derived gradients manually, 
+  Compared results with scikit-learn, 
 
 >Learning Analytics ML
-  -Built an end to end ML pipeline
-  -Cleaned real datasets
-  -Trained baseline and improved models
-  -Reported metrics with proper validation split
+  Built an end to end ML pipeline, 
+  Cleaned real datasets, 
+  Trained baseline and improved models, 
+  Reported metrics with proper validation split, 
 
 >PDF Summarizer CLI
-  -Command line tool for document summarization
-  -Extracts text from PDF
-  -Outputs structured markdown summaries
+  Command line tool for document summarization, 
+  Extracts text from PDF, 
+  Outputs structured markdown summaries, 
 
 Goals
 -Study BSc Computer Science in Germany
