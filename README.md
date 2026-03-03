@@ -5,25 +5,25 @@ Hi, I am a high school student based in Indonesia aiming to study Computer Scien
 I focus on building systems with real data and strong mathematical foundations.
 
 Skills:
->Programming
->Python
->Git
+>Programming,
+>Python, 
+>Git, 
 >Linux
 
 AI and ML:
->Linear regression and logistic regression
->Gradient descent
->Model evaluation, accuracy, precision, recall, F1
+>Linear regression and logistic regression, 
+>Gradient descent, 
+>Model evaluation, accuracy, precision, recall, F1, 
 >Data preprocessing and feature engineering
 
 Computer Science:
->Data structures and algorithms
->Time and space complexity analysis
+>Data structures and algorithms, 
+>Time and space complexity analysis, 
 >Basic systems and CLI tools
 
 Mathematics for AI:
->Linear algebra
->Calculus for optimization
+>Linear algebra, 
+>Calculus for optimization, 
 >Probability fundamentals
 
 Best Projects:
