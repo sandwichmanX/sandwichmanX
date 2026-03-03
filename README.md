@@ -27,30 +27,30 @@ Mathematics for AI:
 >Probability fundamentals
 
 Best Projects:
->Learning Assistant System
+>Learning Assistant System:
   Reads PDF and text files, 
   Generates structured summaries, 
   Supports quiz generation, 
   Implements text chunking and retrieval
 
->ML From Scratch
+>ML From Scratch:
   Implemented regression and classification models using only NumPy, 
   Derived gradients manually, 
   Compared results with scikit-learn, 
 
->Learning Analytics ML
+>Learning Analytics ML:
   Built an end to end ML pipeline, 
   Cleaned real datasets, 
   Trained baseline and improved models, 
   Reported metrics with proper validation split, 
 
->PDF Summarizer CLI
+>PDF Summarizer CLI:
   Command line tool for document summarization, 
   Extracts text from PDF, 
   Outputs structured markdown summaries, 
 
->Goals
-1. Study BSc Computer Science in Germany, 
-2. Specialize in Artificial Intelligence and Machine Learning, 
-3. Contribute to open source AI tools, 
-4. Build systems that improve learning and access to knowledge
+Goals:
+>Study BSc Computer Science in Germany, 
+>Specialize in Artificial Intelligence and Machine Learning, 
+>Contribute to open source AI tools, 
+>Build systems that improve learning and access to knowledge
